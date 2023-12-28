@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnatha-Levi
 - 👀 I’m interested in work in the field of programming
-- 🌱 I’m currently learning ReactNative
+- 🌱 Venturing into the world of react native
 - 📫 How to reach me https://www.linkedin.com/in/johnatha-levi-294300253
 
 <!---
